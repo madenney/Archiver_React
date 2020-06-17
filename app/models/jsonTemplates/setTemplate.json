@@ -1,0 +1,16 @@
+{
+    "id": null,
+    "completedAt": null,
+    "fullRoundText": null,
+    "event": null,
+    "winnerTag": null,
+    "loserTag": null,
+    "winnerScore": null,
+    "loserScore": null,
+    "winnerMains": [],
+    "loserMains": [],
+    "winnerColors": [],
+    "loserColors": [],
+    "games": [],
+    "isLinked": null
+}

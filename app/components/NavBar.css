@@ -1,0 +1,25 @@
+.container {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 75px;
+    width: 100vw;
+    border-bottom: 2px solid black;
+}
+ 
+.tabs {
+    width: 85%;
+    margin: 20px 40px;
+}
+
+.tab {
+    border: solid lightgray 1px;
+    display: inline-block;
+    width: 100px;
+    margin: 10px 20px;
+    padding: 5px;
+    font-size: 22px;
+    text-align: center;
+}
+
+  
